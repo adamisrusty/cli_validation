@@ -1,0 +1,6 @@
+#ifndef CLI_VALIDATION_LIBRARY_H
+#define CLI_VALIDATION_LIBRARY_H
+
+void hello();
+
+#endif //CLI_VALIDATION_LIBRARY_H
